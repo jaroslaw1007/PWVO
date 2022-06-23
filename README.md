@@ -11,6 +11,12 @@ granularity.
 
 In order to train PWVO in a comprehensive fashion, we further develop a data generation workflow for generating synthetic training data.
 
+### Demonstration
+
+<center>
+<img src="./imgs/demo.png" width="800"></img>
+</center>
+
 ### Dependencies
 
 - Python 3.7
