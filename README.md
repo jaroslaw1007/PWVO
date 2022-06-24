@@ -88,6 +88,8 @@ We assume the camera intrinsics are the same between different timesteps, so in 
 python evaluation.py --detail evaluation --weight_path {Weight Directory} --eval_data_path {Evaluation Data Directory} --coord --selection patch_soft_select --eval_dataset sintel --epoch_num 100
 ```
 
+- We also provide our model [checkpoint](https://www.dropbox.com/scl/fo/b9npo97h4j5mi5nqrharl/h?dl=0&rlkey=hzi3obzzmy8ndqyap2zb1p3yo) for evaluating .
+
 ### Training
 - Train PWVO on our custom dataset.
 
