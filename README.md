@@ -91,7 +91,7 @@ python evaluation.py --detail evaluation --weight_path {Weight Directory} --eval
 - We also provide our model mentioned in paper called PWVO [checkpoint](https://www.dropbox.com/scl/fo/b9npo97h4j5mi5nqrharl/h?dl=0&rlkey=hzi3obzzmy8ndqyap2zb1p3yo) for evaluation.
 - Evaluation results on the Sintel dataset may look like the follow table.
 
-|    Method   | End-Point-Error EPE | Rotation Angle Error $R_{err}$ | Translation Offset Error $T_{err}$ | 
+|    Method   | End-Point-Error (EPE) | Rotation Angle Error ($R_{err}$) | Translation Offset Error ($T_{err}$) | 
 |:-----------:|:-----------------------------:|:--------------------------------:|:-----------------------------:|
 | PWVO |  0.6  | 0.081  | 0.043 | 
 
